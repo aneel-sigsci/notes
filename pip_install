@@ -1,2 +1,2 @@
-#Installing pip when python3 is already installed
+#Installing pip when python3 is already installed on Ubuntu 20.04
 sudo apt install python3-venv python3-pip
