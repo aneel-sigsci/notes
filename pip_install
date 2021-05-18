@@ -1,0 +1,2 @@
+#Installing pip when python3 is already installed
+sudo apt install python3-venv python3-pip
